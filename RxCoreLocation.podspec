@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
  s.homepage = 'http://github.com/RxSwiftCommunity/RxCoreLocation'
  s.social_media_url = 'https://twitter.com/bobgodwinx'
  s.authors = { "Obi Bob Godwin" => "bobgodwinx@gmail.com" }
- s.source = { :git => "https://github.com/RxSwiftCommunity/RxCoreLocation.git", :tag => s.version.to_s }
+ s.source = { :git => "https://github.com/wang68543/RxCoreLocation.git", :tag => s.version.to_s }
  s.ios.deployment_target = '9.0'
  s.osx.deployment_target = '10.10'
  s.watchos.deployment_target = '3.0'
